@@ -22,5 +22,5 @@ I'm really excited to blog my journey on GitHub.com.
 # Other Project
 <ul>
 <li><a href="https://jaycee20.github.io/HelloWorld1/">Hello World Project</a></li>
-<li><a href="https://github.com/thewecanzone/GitHubForDummmiesReaders">GitHub For Dummies Repo</a></li>
+<li><a href="https://github.com/thewecanzone/GitHubForDummiesReaders">GitHub For Dummies Repo</a></li>
 </ul>
