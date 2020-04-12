@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
 This the Github Repo Test
-Commit 34
 Commit 4
 - [ ] Commit 5
 - [x] Commit 5a
