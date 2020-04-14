@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 This the Github Repo Test
-- [ ] Fcommit 1
+- [x] Fcommit 1
+- [ ] Fcommit 2
 - [ ] Commit 5
 - [x] Commit 5a
 
