@@ -2,7 +2,8 @@
 
 This the Github Repo Test
 - [x] Fcommit 1
-- [ ] Fcommit 2
+- [x] Fcommit 2
+- [ ] Fcommit 3
 - [ ] Commit 5
 - [x] Commit 5a
 
