@@ -6,6 +6,7 @@ This the Github Repo Test add some extra text
 - [x] Fcommit 3 ftest-2
 
 -[ ] change on origianl upstream repo
+-[ ] third upstream change
 
 You can use the [editor on GitHub](https://github.com/jaycee20/jaycee20.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
