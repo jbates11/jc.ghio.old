@@ -5,6 +5,8 @@ This the Github Repo Test
 - [x] Fcommit 2 ftest-2
 - [x] Fcommit 3 ftest-2
 
+-[ ] change on origianl repo
+
 You can use the [editor on GitHub](https://github.com/jaycee20/jaycee20.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
