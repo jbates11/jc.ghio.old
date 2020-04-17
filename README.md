@@ -1,11 +1,11 @@
 ## Welcome to GitHub Pages
 
-This the Github Repo Test
+This the Github Repo Test add some extra text
 - [x] Fcommit 1 ftest-2
 - [x] Fcommit 2 ftest-2
 - [x] Fcommit 3 ftest-2
 
--[ ] change on origianl repo
+-[ ] change on origianl upstream repo
 
 You can use the [editor on GitHub](https://github.com/jaycee20/jaycee20.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
